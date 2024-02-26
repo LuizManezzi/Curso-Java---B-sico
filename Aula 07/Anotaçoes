@@ -1,0 +1,8 @@
+Erros de Semantantica comuns:
+
+Nao encerrar o comando com ";".
+Java e casesensitve, ou seja, ha diferença em declarar: teste, Teste e TEste.
+Comentarios sao feitos com "\\", blocos de comentarios inicia com "/*" e finaliza com "*/".
+Nao e possivel realizar divisao por zero. (exemplo: "1/0").
+
+Apenas para fins de nota.
